@@ -77,3 +77,5 @@ public class GuessingMNumberwithRandomMethod
 	}//End main
 
 }//End class
+
+// Good job.  Please try to see if you can use Github in Ecplise and check the java files in.  Currently you put them in readme,md file.   The java files should be in the repositories.
